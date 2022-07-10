@@ -1,5 +1,5 @@
-    const number = 6
-    const array = [-4, 3, -9, 0, 4, 1]
+   
+    const array = [-4, 3, -9, 0, 4, 1,-5,-2,6,10]
     let positif = () => {
         let tempNumber = 0
         for(let i  = 0; i<array.length; i++){
